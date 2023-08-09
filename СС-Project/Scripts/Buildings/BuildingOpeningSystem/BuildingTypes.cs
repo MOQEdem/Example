@@ -1,0 +1,28 @@
+public enum BuildingTypes
+{
+    FirstMeleeBarracks,
+    SecondMeleeBarracks,
+    ThirdMeleeBarracks,
+    FirstRangedBarracks,
+    SecondRangedBarracks,
+    ThirdRangedBarracks,
+    MeleeForge,
+    RangedForge,
+    CharacterBuff,
+    ResourceExchange,
+    Catapult,
+    HeavyBarracks,
+    Storage,
+    DragonLairBuilding,
+    FourthMeleeBarracks,
+    FirstCavalryBarracks,
+    SecondCavalryBarracks,
+    ThirdCavalryBarracks,
+    Stable,
+    FirstBallista,
+    SecondBallista,
+    ThirdBallista,
+    Statue,
+    RewardChest,
+    GoldMagnet
+}
