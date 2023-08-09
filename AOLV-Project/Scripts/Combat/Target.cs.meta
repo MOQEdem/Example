@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/#ProjectAssets/Scripts/Player/ResourceBag/ResourceBagHolder.cs.meta
+guid: 98416b4f86a4823489d5f42cd4afc644
+========
+guid: 8dac02dade607c14fb7c761e8a94aa2c
+>>>>>>>> New-Hub:Assets/#ProjectAssets/Scripts/Combat/Target.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
